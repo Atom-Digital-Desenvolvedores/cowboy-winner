@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /website2020/wp-admin/
+
+Sitemap: https://games-funkos.comandocartuchos.com.br/
